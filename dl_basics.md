@@ -1,3 +1,11 @@
-1. An overview of gradient descent optimization algorithms: https://arxiv.org/pdf/1609.04747
+# Legacy: Deep Learning Basics
 
-2. LOSS FUNCTIONS AND METRICS IN DEEP LEARNING : https://arxiv.org/pdf/2307.02694
+This file is kept for backward compatibility.
+
+The curated and maintained content now lives in:
+
+- [Foundations](topics/foundations.md)
+- [Optimization](topics/optimization.md)
+- [Evaluation](topics/evaluation.md)
+
+For guided reading paths, see [README](README.md).

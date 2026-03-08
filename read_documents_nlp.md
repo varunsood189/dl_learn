@@ -1,11 +1,11 @@
-seq2seg attention: 
-https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html#main_content
+# Legacy: NLP Reading Documents
 
-transformer:
-https://jalammar.github.io/illustrated-transformer/
+This file is kept for backward compatibility.
 
-Sebastian Raschka’s LLM reading list:
-https://magazine.sebastianraschka.com/p/understanding-large-language-models
+The curated and maintained content now lives in:
 
-Lilan Weng:
-https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
+- [NLP](topics/nlp.md)
+- [Transformers](topics/transformers.md)
+- [LLM Systems](topics/llm-systems.md)
+
+For guided reading paths, see [README](README.md).
